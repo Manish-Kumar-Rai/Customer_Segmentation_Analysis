@@ -22,8 +22,8 @@ def get_requirments(file_path:str)->List[str]:
 setup(
     name = "Customer_Personality_Analysis",
     version="0.0.1",
-    author= "Piyush Chaudhari",
-    author_email= "piyushpchaudhari@gamil.com",
+    author= "Manish Kumar Rai",
+    author_email= "manishkumarrai3389@gamil.com",
     packages= find_packages(),
     install_requires = get_requirments('requirements.txt')
 
